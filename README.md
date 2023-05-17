@@ -4,10 +4,10 @@ This project aims to streamline data management and improve task tracking for a 
 
 The primary objectives of this project are as follows:
 
-    1.	Extract the relevant dates from the Excel files and consolidate them into a single data frame.
-    2.	Develop a Graphical User Interface (GUI) notification program using Python to remind employees of upcoming tasks, such as fire extinguisher filling or maintenance.
-    3.	Implement GUI systems for adding new customers and deleting existing customers.
-    4.	Ensure privacy and data confidentiality by not sharing any customer names or specific Excel file details, except for the necessary dates.
+1.	Extract the relevant dates from the Excel files and consolidate them into a single data frame.
+2.	Develop a Graphical User Interface (GUI) notification program using Python to remind employees of upcoming tasks, such as fire extinguisher filling or maintenance.
+3.	Implement GUI systems for adding new customers and deleting existing customers.
+4.	Ensure privacy and data confidentiality by not sharing any customer names or specific Excel file details, except for the necessary dates.
     
 ## Data Consolidation
 The company maintains approximately 150-200 Excel files, each representing a different customer. The first step involves extracting the relevant dates from these files and consolidating them into a unified data frame. This consolidation will facilitate efficient monitoring and management of the fire extinguisher maintenance schedule.
