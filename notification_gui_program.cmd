@@ -1,1 +1,1 @@
-python gui_notification_main.py
+python notification_gui_main.py
