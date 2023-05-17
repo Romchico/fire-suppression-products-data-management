@@ -21,6 +21,7 @@ To enhance customer management capabilities, GUI systems will be implemented for
 
 ### Adding New Customers
 The GUI system provides employees with the ability to add new customers to the company's database. Using an intuitive interface, employees can fill out the necessary fields and enter the relevant information, including customer name and dates for fire extinguisher filling and maintenance. Once the required details are entered, employees can submit the information, which will be securely stored in the company's database.
+![image](https://github.com/Romchico/fire-suppression-products-data-management/assets/101732278/16848787-a532-4dec-8c5a-204f3bec5fb0)
 
 ### Deleting Customers
 The GUI system will also allow employees to remove customers from the company's database. By selecting the customer to be deleted from a list or inputting specific details, employees can initiate the deletion process. This feature ensures an efficient and organized customer management system.
