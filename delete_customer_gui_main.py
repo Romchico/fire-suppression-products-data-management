@@ -1,0 +1,2 @@
+from delete_customer_gui_module import delete_customer
+delete_customer()

@@ -1,0 +1,2 @@
+from add_new_customer_gui_module import add_new_customer
+add_new_customer()
