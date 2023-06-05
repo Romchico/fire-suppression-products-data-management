@@ -44,7 +44,6 @@ The following tools were utilized in the development of this project:
 - Visual Studio Code (VSCode): Served as the primary Integrated Development Environment (IDE) for writing and testing code.
 - Excel: Utilized for storing customer information in separate Excel files.
 - CMD: Integrated with the GUI program to provide command-line interaction and launch the notification system.
-- 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
